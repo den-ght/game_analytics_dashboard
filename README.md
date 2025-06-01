@@ -9,7 +9,7 @@ The focus is on player age, activity name, time spent, and Battle Pass participa
 
 👉 [View interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/denys.aralov/viz/zadanie_6_17405051915480/Dashboard2)
 
-![Dashboard Screenshot](dashboard.png)
+![Dashboard Screenshot](dashboard_2.png)
 
 ---
 
