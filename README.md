@@ -41,3 +41,10 @@ The focus is on player age, activity name, time spent, and Battle Pass participa
 
 **Denys Aralov**  
 _Data Analytics Student | Tableau Enthusiast_
+
+---
+
+## ✅ License
+This project is open-source and free to use under the MIT license.
+
+---
